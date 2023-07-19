@@ -1,16 +1,33 @@
 # Hi, I'am Mustaqim 👋
 
-I am a MERN developer who is passionate about creating dynamic and user-friendly websites using MongoDB, Express.js, React.js, and Node.js.I enjoy working with these.
+I am a self-motivated full stack developer specializing in the MERN stack. With a passion for creating responsive, dynamic, and user-friendly websites, I leverage the power of MongoDB, Express.js, React.js, and Node.js to deliver exceptional web experiences. I am eager to contribute in collaborative team environments, where I can share my skills and knowledge, learn from experts, and continuously enhance my expertise in full stack development.
+
 
 ## My skills and tools 🛠️
 
-- Front-end: HTML, CSS, JavaScript ES6, Tailwind, Bootstrap, React, React Router, React Awesome Components etc.
-- Back-end: Express, MongoDB, Firebase Authentication, JWT
-- Tools: Visual Studio Code, Git, Netlify, Vercel ,Firebase, Figma, Chrome Dev Tools and Debugging.
-
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- Front-end: HTML, CSS, JavaScript ES6, Tailwind CSS, Bootstrap, React.js, React Router, Firebase Authentication, Formik, Axios, React Query, etc.
+- Back-end: Node.js, Express.js, MongoDB, JSON Web Token (JWT).
+- Tools: Visual Studio Code, Git, GitHub, Figma, Chrome DevTools, and Debugging, etc.
+  
+<p align="left"> <img src="https://i.ibb.co/whwSzCz/html.png" alt="html" width="40" height="40"/>
+  <img src="https://i.ibb.co/92tfsbD/css-3.png" alt="css" width="40" height="40"/>
+  <img src="https://i.ibb.co/mCQK7w8/tailwind-css-icon.png" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://i.ibb.co/dPDrMvL/bootstrap.png" alt="bootstrap" width="40" height="40"/>
+  <img src="https://p.kindpng.com/picc/s/67-678384_transparent-javascript-icon-png-png-download.png" alt="javascript" width="40" height="40"/>
+  <img src="https://i.ibb.co/DrVRyYH/science.png" alt="react" width="40" height="40"/>
+  <img src="https://i.ibb.co/K20BxBp/icons8-node-js-512-1.png" alt="node" width="40" height="40"/>
+  <img src="https://th.bing.com/th/id/R.24c1b66e7abf74a9fc357182662312ed?rik=xXCcMvHnAVqENA&amp;pid=ImgRaw&amp;r=0" alt="express" width="40" height="40"/>
+  <img src="https://i.ibb.co/ftrdFWN/icons8-mongodb-512.png" alt="mongodb" width="40" height="40"/>
+  <img src="https://pitamchandra.github.io/portfolio/images/icon/firebase-9e853b34.png" alt="firebase" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScO_VbrChYABRaMKCLnXXUjxrCt46uxgC7ixId88wQ_xUTUybG8K-p4Pn6CDKFeiXRy4o&amp;usqp=CAU" alt="figma" width="40" height="40"/>
+  <img src="https://pitamchandra.github.io/portfolio/images/icon/github-mark.svg" alt="github" width="40" height="40"/>
+</p>
 
 ## My projects 💻
+
+- [LanguaLearn](https://simple-firebase-7dd6d.web.app/): Developed a language learning website using the MERN stack with React Router, Firebase Authentication, Stripe payment, and Tailwind CSS.
+As a language learning website, one of the key features is the creation of private dashboards for admins, students, and instructors.
+Implemented features include displaying selected and enrolled classes, payment processing for users, adding and updating classes for instructors, and managing class approvals and users for admins.
 
 - [Modern Toys](https://email-pass-authenticatio-15760.web.app/): Created  a toy website using the MERN stack with React Router, Firebase Authentication, and Tailwind CSS.Implemented CRUD operations for toys, sorting system by category, and search functionality.Added user login and registration system with Firebase Authentication.
 
