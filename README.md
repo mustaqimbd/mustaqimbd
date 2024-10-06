@@ -1,41 +1,52 @@
-# Hi, I'am Mustaqim 👋
+# Hi, I'm Mustaqim 👋
 
-I am a self-motivated full stack developer specializing in the MERN stack. With a passion for creating responsive, dynamic, and user-friendly websites, I leverage the power of MongoDB, Express.js, React.js, and Node.js to deliver exceptional web experiences. I am eager to contribute in collaborative team environments, where I can share my skills and knowledge, learn from experts, and continuously enhance my expertise in full stack development.
+I am a **Full-Stack Developer** from Pabna, Bangladesh, with experience in developing scalable, efficient, and user-friendly web applications. I am passionate about solving complex problems and building systems that make a difference. Currently, I am looking for exciting job opportunities to further enhance my skills and contribute to impactful projects.
 
+## 🔧 Technologies & Tools:
 
-## My skills and tools 🛠️
-
-- Front-end: HTML, CSS, JavaScript ES6, Tailwind CSS, Bootstrap, React.js, React Router, Firebase Authentication, Formik, Axios, React Query, etc.
-- Back-end: Node.js, Express.js, MongoDB, JSON Web Token (JWT).
-- Tools: Visual Studio Code, Git, GitHub, Figma, Chrome DevTools, and Debugging, etc.
+- **Front-end:** Next.js, React.js, Redux.js, TypeScript, JavaScript, Tailwind CSS, HTML
+- **Back-end:** Node.js, Express.js, API Design, JSON Web Token (JWT)
+- **Database:** MongoDB, Mongoose ODM
+- **Tools:** Git, GitHub, Postman
   
-<p align="left"> <img src="https://i.ibb.co/whwSzCz/html.png" alt="html" width="40" height="40"/>
-  <img src="https://i.ibb.co/92tfsbD/css-3.png" alt="css" width="40" height="40"/>
+<p align="left"> 
+  <img src="https://i.ibb.co/whwSzCz/html.png" alt="html" width="40" height="40"/>
   <img src="https://i.ibb.co/mCQK7w8/tailwind-css-icon.png" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://i.ibb.co/dPDrMvL/bootstrap.png" alt="bootstrap" width="40" height="40"/>
-  <img src="https://p.kindpng.com/picc/s/67-678384_transparent-javascript-icon-png-png-download.png" alt="javascript" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png" alt="javascript" width="40" height="40"/>
+  <img src="https://www.datocms-assets.com/48401/1627663113-learn-typescript.png?fit=max&fm=webp&w=900" alt="typescript" width="40" height="40"/>
   <img src="https://i.ibb.co/DrVRyYH/science.png" alt="react" width="40" height="40"/>
-  <img src="https://i.ibb.co/K20BxBp/icons8-node-js-512-1.png" alt="node" width="40" height="40"/>
-  <img src="https://th.bing.com/th/id/R.24c1b66e7abf74a9fc357182662312ed?rik=xXCcMvHnAVqENA&amp;pid=ImgRaw&amp;r=0" alt="express" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="Nextjs" width="40" height="40"/>
+  <img src="https://i0.wp.com/everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png?resize=2048%2C1851&ssl=1" alt="Redux" width="40" height="40"/>
+  <img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" alt="node" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/express-js-icon.png" alt="express" width="40" height="40"/>
   <img src="https://i.ibb.co/ftrdFWN/icons8-mongodb-512.png" alt="mongodb" width="40" height="40"/>
-  <img src="https://pitamchandra.github.io/portfolio/images/icon/firebase-9e853b34.png" alt="firebase" width="40" height="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScO_VbrChYABRaMKCLnXXUjxrCt46uxgC7ixId88wQ_xUTUybG8K-p4Pn6CDKFeiXRy4o&amp;usqp=CAU" alt="figma" width="40" height="40"/>
-  <img src="https://pitamchandra.github.io/portfolio/images/icon/github-mark.svg" alt="github" width="40" height="40"/>
+  <img src="https://w7.pngwing.com/pngs/28/245/png-transparent-postman-hd-logo-thumbnail.png" alt="postman" width="40" height="40"/>
 </p>
 
-## My projects 💻
+## 🚀 Projects
 
-- [LanguaLearn](https://simple-firebase-7dd6d.web.app/): Developed a language learning website using the MERN stack with React Router, Firebase Authentication, Stripe payment, and Tailwind CSS.
-As a language learning website, one of the key features is the creation of private dashboards for admins, students, and instructors.
-Implemented features include displaying selected and enrolled classes, payment processing for users, adding and updating classes for instructors, and managing class approvals and users for admins.
+### Electro E-commerce Platform
+**Role:** Full Stack Developer  
+**Description:** A scalable e-commerce platform specializing in electric products.  
+**Technologies:** Next.js, Redux.js, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Yup, Zod  
+- Designed and implemented role-based RESTful API endpoints for managing products, categories, brands, reviews, and tags.
+- Developed a product management interface with features like product listing, filtering, creation, editing, image upload, and gallery management.
+- Integrated JWT-based authentication with role-based access control for admins and customers.
 
-- [Modern Toys](https://email-pass-authenticatio-15760.web.app/): Created  a toy website using the MERN stack with React Router, Firebase Authentication, and Tailwind CSS.Implemented CRUD operations for toys, sorting system by category, and search functionality.Added user login and registration system with Firebase Authentication.
+[🔗 Live Site](https://electrocommerce.dashboard.abirmahmud.top) | [🔗 Client](https://github.com/mustaqimbd/Electro-Commerce-Dashboard.git) [🔗 Server](https://github.com/mustaqimbd/Electro-Commerce-Server.git)
 
-- [American Cooks](https://recipe-world-auth.web.app/): Developed a web-based application for food recipes using MERN ,React Router, Firebase Authentication etc.Implemented features such as Chefs Card,Conditional Chef's recipes Details page based on user login or registration, user registration and login system etc.Used Tailwind CSS for responsive web design.
+### DropShop E-commerce Platform
+**Role:** Full Stack Developer  
+**Description:** A multi-vendor platform for managing products, orders, and reseller panels.  
+**Technologies:** React.js, Context API, Tailwind CSS, Node.js, Express.js, MongoDB, Mongoose ODM, JWT, Yup, Zod, Material UI  
+- Developed a persistent shopping cart system with real-time product and pricing updates across sessions.
+- Designed RESTful API endpoints for cart management, including adding/removing products and updating quantities.
+- Built the Reseller Dashboard with real-time stats, profit tracking, and dynamic charts for data visualization.
 
-## My contact details 📫
+[🔗 Live Site](https://dropshop-client.vercel.app) | [🔗 GitHub](https://github.com/mustaqimbd/dropShop.git)
 
-- Email: [mustaqimkhanbd@gmail.com](mustaqimkhanbd@gmail.com)
-- LinkedIn: [Md. Mustaqim Khan](https://www.linkedin.com/in/mustaqimbd/)
+## 📫 How to reach me:
 
-<!-- ## My stats 📊 -->
+- **Email:** [mustaqimkhanbd@gmail.com](mustaqimkhanbd@gmail.com)
+- **LinkedIn:** [Md. Mustaqim Khan](https://www.linkedin.com/in/mustaqimbd/)
+
