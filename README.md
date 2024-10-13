@@ -7,7 +7,7 @@ I am a **Full-Stack Developer** from Pabna, Bangladesh, with experience in devel
 - **Front-end:** Next.js, React.js, Redux.js, TypeScript, JavaScript, Tailwind CSS, HTML
 - **Back-end:** Node.js, Express.js, API Design, JSON Web Token (JWT)
 - **Database:** MongoDB, Mongoose ODM
-- **Tools:** Git, GitHub, Postman
+- **Tools:** Git, GitHub, Postman, Amazon EC2.
   
 <p align="left"> 
   <img src="https://i.ibb.co/whwSzCz/html.png" alt="html" width="40" height="40"/>
@@ -25,7 +25,7 @@ I am a **Full-Stack Developer** from Pabna, Bangladesh, with experience in devel
 
 ## 🚀 Projects
 
-### Electro E-commerce Platform
+### Electro E-commerce Dashboard
 **Role:** Full Stack Developer  
 **Description:** A scalable e-commerce platform specializing in electric products.  
 **Technologies:** Next.js, Redux.js, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Yup, Zod  
@@ -33,7 +33,7 @@ I am a **Full-Stack Developer** from Pabna, Bangladesh, with experience in devel
 - Developed a product management interface with features like product listing, filtering, creation, editing, image upload, and gallery management.
 - Integrated JWT-based authentication with role-based access control for admins and customers.
 
-[🔗 Live Site](https://electrocommerce.dashboard.abirmahmud.top) | [🔗 Client](https://github.com/mustaqimbd/Electro-Commerce-Dashboard.git) [🔗 Server](https://github.com/mustaqimbd/Electro-Commerce-Server.git)
+[🔗 Live Site](https://electrocommerce.dashboard.mustaqim.site) | [🔗 Client](https://github.com/mustaqimbd/Electro-Commerce-Dashboard.git) [🔗 Server](https://github.com/mustaqimbd/Electro-Commerce-Server.git)
 
 ### DropShop E-commerce Platform
 **Role:** Full Stack Developer  
